@@ -2,4 +2,6 @@
 Data Science Portafolio 
 
 
-This repository includes some of my projects, it goes from data cleaning to ML and DL algorithms. It is not done yet
+This is my data science portfolio, showcasing my projects and expertise in data analysis, visualization, and machine learning. The projects in this portfolio have been completed using various tools and programming languages, including Python and SQL.
+
+If you have any questions or would like to discuss potential collaborations or job opportunities, please feel free to reach out to me at luislopezcazares@gmail.com. I am always open to connecting with fellow data scientists and professionals in the field.
